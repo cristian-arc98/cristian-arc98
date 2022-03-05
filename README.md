@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Cristian Arcedo
 - Github: @cristian-arc98
+
 - 👀 I’m interested in New technologies, imagine and do projects alone or with teams, i'm 3D Generalist && Web dev (front end at the moment)
 
-Usually i'm intersting to collaborate in projects like:
-+ Game development.
-+ Humanitary & or solidary projects.
-+ Web development.
+- Usually i'm intersting to collaborate in projects like:
+   + Game development.
+   + Humanitary & or solidary projects.
+   + Web development.
 
 - Contact me:
    + Gmail: cristian.lorca.trabajo@gmail.com
