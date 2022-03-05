@@ -12,11 +12,11 @@
    + Gmail: cristian.lorca.trabajo@gmail.com
    + Form: https://linktr.ee/Teorik
 
-<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="200" height="100" />
+<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="180" height="100" />
 
-Software used to work: 
+Software used for work: 
 
-</br></br>
+</br>
 
 <img src="./readme_content/unreal-icon-8.png" width="50" height="50" />
 <!---
