@@ -7,9 +7,9 @@ Usually i'm intersting to collaborate in projects like:
 + Humanitary & or solidary projects.
 + Web development.
 
-Contact me:
-Gmail: cristian.lorca.trabajo@gmail.com
-With form: https://linktr.ee/Teorik
+- Contact me:
+   + Gmail: cristian.lorca.trabajo@gmail.com
+   + Form: https://linktr.ee/Teorik
 
 ![This is an image](https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png)
 
