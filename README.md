@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Cristian Arcedo
+- Hello, I’m Cristian Arcedo
 - Github: @cristian-arc98
 
-- 👀 I’m interested in New technologies, imagine and do projects alone or with teams, i'm 3D Generalist && Web dev (front end at the moment)
+- I’m interested in New technologies, imagine, design and create, i'm 3D Generalist && Web dev (front end at the moment)
 
 - Usually i'm intersting to collaborate in projects like:
    + Game development.
