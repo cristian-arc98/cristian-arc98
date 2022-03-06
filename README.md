@@ -19,7 +19,7 @@ Software used for work:
 </br>
 <h3>3D Generalist:</h3>
 <img src="./readme_content/ue.png" width="50" height="50" />
-<img src="./readme_content/blender.png" width="50" height="50" />
+<img src="./readme_content/blender.png" width="50" height="70" />
 <img src="./readme_content/krita.png" width="50" height="50" />
 <img src="./readme_content/photoshop.png" width="50" height="50" />
 <img src="./readme_content/trello.png" width="50" height="50" />
