@@ -17,12 +17,14 @@
 Software used for work: 
 
 </br>
-
+3D Generalist:
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/blender.png" width="50" height="50" />
+<img src="./readme_content/krita.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
-<img src="./readme_content/ue.png" width="50" height="50" />
+
+<h3>Web dev</h3>
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
