@@ -12,13 +12,21 @@
    + Gmail: cristian.lorca.trabajo@gmail.com
    + Form: https://linktr.ee/Teorik
 
-<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="180" height="100" />
+<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="170" height="100" />
 
 Software used for work: 
 
 </br>
 
-<img src="./readme_content/unreal-icon-8.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/ue.png" width="50" height="50" />
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
