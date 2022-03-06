@@ -16,8 +16,6 @@
 
 Software used for work: 
 <!-- -->
-</br>
-
 <h3>3D Generalist:</h3>
 <div>
 <img src="./readme_content/ue.png" title="Unreal Engine" width="50" height="50" />
