@@ -34,9 +34,9 @@
 <img src="./readme_content/xampp.png" title="Xampp" width="50" height="50" />
 </div>
 
-</br>
+</br></br>
 
-<div>
+<div align="center">
 <img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="100" height="60" /><label>For a better & united world</label>
    </div>
 <!---
