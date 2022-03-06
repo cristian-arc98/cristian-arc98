@@ -34,8 +34,9 @@
 <img src="./readme_content/xampp.png" title="Xampp" width="50" height="50" />
 </div>
 
+</br>
 
-<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="170" height="100" />
+<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="170" height="100" /><p>For a better & united world</p>
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
