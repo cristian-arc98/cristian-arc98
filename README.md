@@ -37,7 +37,11 @@
 </br></br>
 
 <div align="center">
-<img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="100" height="60" /><label>For a better & united world</label>
+<img src="./readme_content/onu.png" width="100" height="60" />
+   <img src="./readme_content/sp.png" width="100" height="60" />
+   <img src="./readme_content/eu.png" width="100" height="60" />
+   
+   <label>For a better & united world</label>
    </div>
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
