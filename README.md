@@ -18,11 +18,11 @@ Software used for work:
 <!-- -->
 </br>
 <h3>3D Generalist:</h3>
-<img src="./readme_content/ue.png" width="50" height="50" />
-<img src="./readme_content/blender1.png" width="50" height="50" />
-<img src="./readme_content/krita.png" width="50" height="50" />
-<img src="./readme_content/photoshop.png" width="50" height="50" />
-<img src="./readme_content/trello.png" width="50" height="50" />
+<img src="./readme_content/ue.png" title="Unreal Engine" width="50" height="50" />
+<img src="./readme_content/blender.png" title="Blender" width="50" height="50" />
+<img src="./readme_content/krita.png" title="Krita" width="50" height="50" />
+<img src="./readme_content/photoshop.png" title="Photoshop" width="50" height="50" />
+<img src="./readme_content/trello.png" title="Trello" width="50" height="50" />
 
 <h3>Web dev</h3>
 <img src="./readme_content/ue.png" width="50" height="50" />
