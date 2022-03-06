@@ -15,9 +15,9 @@
 <img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="170" height="100" />
 
 Software used for work: 
-
+/* */
 </br>
-3D Generalist:
+<h3>3D Generalist:</h3>
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/blender.png" width="50" height="50" />
 <img src="./readme_content/krita.png" width="50" height="50" />
