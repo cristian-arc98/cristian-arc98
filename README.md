@@ -28,7 +28,7 @@
 </div>
 
 <div>
-<h3>Web dev</h3>
+<h3>Web dev:</h3>
 <img src="./readme_content/vscodium.png" title="VSCodium" width="50" height="50" />
 <img src="./readme_content/vscode.png" title="VSCode" width="50" height="50" />
 <img src="./readme_content/figma.png" title="Figma" width="50" height="50" />
