@@ -38,8 +38,8 @@
 
 <div align="center">
 <img src="./readme_content/onu.png" width="100" height="60" />
-   <img src="./readme_content/sp.png" width="60" height="60" />
-   <img src="./readme_content/eu.png" width="60" height="60" />
+<img src="./readme_content/sp.png" width="60" height="60" />
+<img src="./readme_content/eu.png" width="60" height="60" />
    
    <label>For a better & united world</label>
    </div>
