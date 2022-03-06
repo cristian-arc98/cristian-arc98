@@ -48,7 +48,7 @@
    
    </br>
    </hr>
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-arc98&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
