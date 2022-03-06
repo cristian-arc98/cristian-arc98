@@ -47,7 +47,8 @@
    </div>
    
    </br>
-   </hr>
+   </br>
+   
   <div align="center">
 ![cristian-arc98 GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-arc98&show_icons=true&theme=midnight-purple)
  </div>
