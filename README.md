@@ -29,10 +29,11 @@ Software used for work:
 
 <div>
 <h3>Web dev</h3>
-<img src="./readme_content/vscodium.png" width="50" height="50" />
-<img src="./readme_content/vscode.png" width="50" height="50" />
-<img src="./readme_content/figma.png" width="50" height="50" />
-<img src="./readme_content/balsamiq.png" width="50" height="50" />
+<img src="./readme_content/vscodium.png" title="VSCodium" width="50" height="50" />
+<img src="./readme_content/vscode.png" title="VSCode" width="50" height="50" />
+<img src="./readme_content/figma.png" title="Figma" width="50" height="50" />
+<img src="./readme_content/balsamiq.png" title="Balsamiq" width="50" height="50" />
+<img src="./readme_content/xampp.png" title="Xampp" width="50" height="50" />
 </div>
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
