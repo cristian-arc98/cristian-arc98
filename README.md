@@ -19,7 +19,7 @@ Software used for work:
 </br>
 
 <img src="./readme_content/ue.png" width="50" height="50" />
-<img src="./readme_content/ue.png" width="50" height="50" />
+<img src="./readme_content/blender.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
 <img src="./readme_content/ue.png" width="50" height="50" />
