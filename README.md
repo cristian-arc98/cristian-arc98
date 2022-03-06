@@ -1,3 +1,4 @@
+<h1>Welcome</h1>
 - Hello, I’m Cristian Arcedo
 - Github: @cristian-arc98
 
@@ -14,7 +15,7 @@
 
 <img src="https://1000marcas.net/wp-content/uploads/2020/03/logo-united-nations.png" width="170" height="100" />
 
-Software used for work: 
+<h2>Software used for work: </h2>
 <!-- -->
 <h3>3D Generalist:</h3>
 <div>
