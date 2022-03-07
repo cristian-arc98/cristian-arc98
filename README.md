@@ -59,7 +59,7 @@
    
    <div align="center">
   
-   <img src="./readme_content/pajaroto.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
+   <img src="https://www.despiertaymira.com/wp-content/uploads/2018/06/etienne_jacob-necesary-disorder12.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
    </div>
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 <!---
