@@ -1,4 +1,5 @@
-  .img_sec img{
+  .img_sec{
       width: 12px ;
       height: 1em ;
+    background-color: red;
       }
