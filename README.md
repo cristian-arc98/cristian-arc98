@@ -54,13 +54,9 @@
       <a href="https://european-union.europa.eu"> <img src="./readme_content/eu.png" width="60" height="60" /></a>
       <a href="https://www.lamoncloa.gob.es"> <img src="./readme_content/sp.png" width="60" height="60" /></a>
    </br> 
-      <label>For a better & united world</label> <img src="./readme_content/cor.wepg"    title="Figma" alt="Figma" width="30em" height="30em"/>
+      <label>For a better & united world</label> <img src="./readme_content/cor.wepg"    title=":)" alt="heart-animation" width="30em" height="30em"/>
    </div>
    
-   <div align="center">
-  
-   <img src="./readme_content/12.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
-   </div>
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
