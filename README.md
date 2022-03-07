@@ -21,20 +21,21 @@
 <!-- -->
 <h3>3D Generalist:</h3>
 <div>
-<img src="./readme_content/ue.png" title="Unreal Engine" width="50" height="50" />
-<img src="./readme_content/blender.png" title="Blender" width="50" height="50" />
-<img src="./readme_content/krita.png" title="Krita" width="50" height="50" />
-<img src="./readme_content/photoshop.png" title="Photoshop" width="50" height="50" />
-<img src="./readme_content/trello.png" title="Trello" width="50" height="50" />
+<img src="./readme_content/ue.png" title="Unreal Engine" alt="" width="50" height="50" />
+<img src="./readme_content/blender.png" title="Blender" alt="" width="50" height="50" />
+<img src="./readme_content/krita.png" title="Krita" alt="" width="50" height="50" />
+<img src="./readme_content/photoshop.png" title="Photoshop" alt="" width="50" height="50" />
+<img src="./readme_content/trello.png" title="Trello" alt="" width="50" height="50" />
 </div>
 
 <div>
 <h3>Web dev:</h3>
-<img src="./readme_content/vscodium.png" title="VSCodium" width="50" height="50" />
-<img src="./readme_content/vscode.png" title="VSCode" width="50" height="50" />
-<img src="./readme_content/figma.png" title="Figma" width="50" height="50" />
-<img src="./readme_content/balsamiq.png" title="Balsamiq" width="50" height="50" />
-<img src="./readme_content/xampp.png" title="Xampp" width="50" height="50" />
+   
+<a href="https://vscodium.com/"> <img src="./readme_content/vscodium.png" title="VSCodium" alt="" width="50" height="50" /></a>
+<img src="./readme_content/vscode.png" title="VSCode" alt="" width="50" height="50" />
+<img src="./readme_content/figma.png" title="Figma" alt="" width="50" height="50" />
+<img src="./readme_content/balsamiq.png" title="Balsamiq" alt="" width="50" height="50" />
+<img src="./readme_content/xampp.png" title="Xampp" alt="" width="50" alt="" height="50" />
 </div>
 
    </br>
