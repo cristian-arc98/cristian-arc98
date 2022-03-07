@@ -54,7 +54,7 @@
       <a href="https://european-union.europa.eu"> <img src="./readme_content/eu.png" width="60" height="60" /></a>
       <a href="https://www.lamoncloa.gob.es"> <img src="./readme_content/sp.png" width="60" height="60" /></a>
    </br>
-      <label><small>For a better & united world</small></label> <img src="https://64.media.tumblr.com/1d398068aad12c8b6aae6de37f4e64e6/tumblr_ml9e63M1Md1s5jjtzo1_500.gifv"    title="Figma"    alt="Figma"    width="50em" height="50em"/>
+      <label><small>For a better & united world</small><img src="https://64.media.tumblr.com/1d398068aad12c8b6aae6de37f4e64e6/tumblr_ml9e63M1Md1s5jjtzo1_500.gifv"    title="Figma"    alt="Figma"    width="50em" height="50em"/></label> 
    </div>
    
    <div>
