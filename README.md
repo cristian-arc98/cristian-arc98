@@ -36,7 +36,7 @@
 <div class="img_sec">
 <h3>Web dev:</h3>
    
-<a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png" title="VSCodium" alt="" width="11rem" height="11rem" /></a>
+<a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png" title="VSCodium" alt="" width="50em" height="50em" /></a>
 <a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"   title="VSCode"   alt="" width="50" height="50" /></a>
 <a href="https://www.figma.com">          <img src="./readme_content/figma.png"    title="Figma"    alt="" width="50" height="50" /></a>
 <a href="https://balsamiq.com/">          <img src="./readme_content/balsamiq.png" title="Balsamiq" alt="" width="50" height="50" /></a>
