@@ -19,7 +19,7 @@
  
 <head>      
      <link rel="stylesheet" href="./readme_content/style.css">
-      </head> 
+</head> 
   
 <body>
 <h2>Software used for work: </h2>
@@ -36,11 +36,11 @@
 <div class="img_sec">
 <h3>Web dev:</h3>
    
-<a href="https://vscodium.com/"> <img src="./readme_content/vscodium.png" title="VSCodium" alt="" width="50" height="50" /></a>
+<a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png" title="VSCodium" alt="" width="50" height="1em" /></a>
 <a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"   title="VSCode"   alt="" width="50" height="50" /></a>
-<a href="https://www.figma.com"> <img src="./readme_content/figma.png"    title="Figma"    alt="" width="50" height="50" /></a>
-<a href="https://balsamiq.com/"> <img src="./readme_content/balsamiq.png" title="Balsamiq" alt="" width="50" height="50" /></a>
-<a href="https://www.apachefriends.org"> <img src="./readme_content/xampp.png"    title="Xampp"    alt="" width="50" height="50" /></a>
+<a href="https://www.figma.com">          <img src="./readme_content/figma.png"    title="Figma"    alt="" width="50" height="50" /></a>
+<a href="https://balsamiq.com/">          <img src="./readme_content/balsamiq.png" title="Balsamiq" alt="" width="50" height="50" /></a>
+<a href="https://www.apachefriends.org">  <img src="./readme_content/xampp.png"    title="Xampp"    alt="" width="50" height="50" /></a>
 </div>
 
    </br>
