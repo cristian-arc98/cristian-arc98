@@ -16,9 +16,14 @@
    + Gmail: cristian.lorca.trabajo@gmail.com
    + Form: https://linktr.ee/Teorik
 
-<head>
- s
-</head>
+ 
+      
+      .img_sec{
+      width: 1em ;
+      height: 1em ;
+      }
+      
+  
 <body>
 <h2>Software used for work: </h2>
 <!-- -->
