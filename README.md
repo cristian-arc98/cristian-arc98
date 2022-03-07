@@ -26,11 +26,11 @@
 <!-- -->
 <h3>3D Generalist:</h3>
 <div class="img_sec">
-<img src="./readme_content/ue.png" title="Unreal Engine" alt="" width="50" height="50" />
-<img src="./readme_content/blender.png" title="Blender" alt="" width="50" height="50" />
-<img src="./readme_content/krita.png" title="Krita" alt="" width="50" height="50" />
-<img src="./readme_content/photoshop.png" title="Photoshop" alt="" width="50" height="50" />
-<img src="./readme_content/trello.png" title="Trello" alt="" width="50" height="50" />
+<a href="https://www.unrealengine.com"> <img src="./readme_content/ue.png" title="Unreal Engine" alt="" width="50" height="50" /></a>
+<a href="https://www.blender.org/"> <img src="./readme_content/blender.png" title="Blender" alt="" width="50" height="50" /></a>
+<a href="https://krita.org"> <img src="./readme_content/krita.png" title="Krita" alt="" width="50" height="50" /></a>
+<a href="https://www.adobe.com/es/products/photoshop.html"> <img src="./readme_content/photoshop.png" title="Photoshop" alt="" width="50" height="50" /></a>
+<a href="https://trello.com"> <img src="./readme_content/trello.png" title="Trello" alt="" width="50" height="50" /></a>
 </div>
 
 <div class="img_sec">
