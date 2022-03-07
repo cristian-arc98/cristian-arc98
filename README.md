@@ -16,11 +16,21 @@
    + Gmail: cristian.lorca.trabajo@gmail.com
    + Form: https://linktr.ee/Teorik
 
-
+<head>
+   <style> 
+      
+      .img_sec{
+      width: 1em ;
+      height: 1em ;
+      }
+      
+   </style>
+</head>
+<body>
 <h2>Software used for work: </h2>
 <!-- -->
 <h3>3D Generalist:</h3>
-<div>
+<div class="img_sec">
 <img src="./readme_content/ue.png" title="Unreal Engine" alt="" width="50" height="50" />
 <img src="./readme_content/blender.png" title="Blender" alt="" width="50" height="50" />
 <img src="./readme_content/krita.png" title="Krita" alt="" width="50" height="50" />
@@ -28,14 +38,14 @@
 <img src="./readme_content/trello.png" title="Trello" alt="" width="50" height="50" />
 </div>
 
-<div>
+<div class="img_sec">
 <h3>Web dev:</h3>
    
 <a href="https://vscodium.com/"> <img src="./readme_content/vscodium.png" title="VSCodium" alt="" width="50" height="50" /></a>
-<img src="./readme_content/vscode.png" title="VSCode" alt="" width="50" height="50" />
-<img src="./readme_content/figma.png" title="Figma" alt="" width="50" height="50" />
-<img src="./readme_content/balsamiq.png" title="Balsamiq" alt="" width="50" height="50" />
-<img src="./readme_content/xampp.png" title="Xampp" alt="" width="50" alt="" height="50" />
+<a href="https://vscodium.com/"> <img src="./readme_content/vscode.png" title="VSCode" alt="" width="50" height="50" /></a>
+<a href="https://vscodium.com/"> <img src="./readme_content/figma.png" title="Figma" alt="" width="50" height="50" /></a>
+<a href="https://vscodium.com/"> <img src="./readme_content/balsamiq.png" title="Balsamiq" alt="" width="50" height="50" /></a>
+<a href="https://vscodium.com/"> <img src="./readme_content/xampp.png" title="Xampp" alt="" width="50" alt="" height="50" /></a>
 </div>
 
    </br>
@@ -56,6 +66,8 @@
    
    <label>For a better & united world</label>
    </div>
+   
+   </body>
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
