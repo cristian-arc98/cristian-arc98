@@ -59,7 +59,7 @@
    
    <div align="center">
   
-   <img src="http://www.juntadeandalucia.es/averroes/centros-tic/41010344/helvia/aula/archivos/repositorio/500/725/html/Cool+transparent+gifs+9.+Here+goes+the+gif+dumps+links_dd8b83_4750088.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
+   <img src="./readme_content/pajaroto.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
    </div>
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 <!---
