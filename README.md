@@ -17,12 +17,9 @@
    + Form: https://linktr.ee/Teorik
 
  
-      
-      .img_sec{
-      width: 1em ;
-      height: 1em ;
-      }
-      
+<head>      
+     <link rel="stylesheet" href="./readme_content/styles.css">
+      </head> 
   
 <body>
 <h2>Software used for work: </h2>
