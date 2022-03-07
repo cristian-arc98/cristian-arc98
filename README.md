@@ -59,7 +59,7 @@
    
    <div align="center">
   
-   <img src="https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif"    title="Figma"    alt="Figma"    width="350em" height="150em" align="center"/>
+   <img src="https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
    </div>
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
