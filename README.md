@@ -54,7 +54,7 @@
       <a href="https://european-union.europa.eu"> <img src="./readme_content/eu.png" width="60" height="60" /></a>
       <a href="https://www.lamoncloa.gob.es"> <img src="./readme_content/sp.png" width="60" height="60" /></a>
    </br> 
-      <label>For a better & united world</label> <img src="./readme_content/cor.wepg"    title=":)" alt="heart-animation" width="30em" height="30em"/>
+      <label>For a better & united world</label> <img src="./readme_content/cor.webp"    title=":)" alt="heart-animation" width="30em" height="30em"/>
    </div>
    
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
