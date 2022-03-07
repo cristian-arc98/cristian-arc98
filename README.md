@@ -17,7 +17,7 @@
    + Form: https://linktr.ee/Teorik
 
 <head>
- 
+ s
 </head>
 <body>
 <h2>Software used for work: </h2>
