@@ -53,11 +53,11 @@
       <a href="https://www.un.org"> <img src="./readme_content/onu11.png" width="60" height="60" /></a>
       <a href="https://european-union.europa.eu"> <img src="./readme_content/eu.png" width="60" height="60" /></a>
       <a href="https://www.lamoncloa.gob.es"> <img src="./readme_content/sp.png" width="60" height="60" /></a>
-   </br> <div>
-      <label>For a better & united world<img src="https://64.media.tumblr.com/1d398068aad12c8b6aae6de37f4e64e6/tumblr_ml9e63M1Md1s5jjtzo1_500.gifv"    title="Figma"    alt="Figma"    width="30em" height="30em"/></label> </div>
+   </br> 
+      <label>For a better & united world</label> <img src="https://64.media.tumblr.com/1d398068aad12c8b6aae6de37f4e64e6/tumblr_ml9e63M1Md1s5jjtzo1_500.gifv"    title="Figma" alt="Figma" width="30em" height="30em"/>
    </div>
    
-   <div>
+   <div align="center">
   
    <img src="https://cutewallpaper.org/25/animated-gif-matrix-code-wallpaper/popular-56884-and-b33b7-trending-d9f0a-matrix-9d340-gifs-78c1f-on-c4e7c-picsart.gif"    title="Figma"    alt="Figma"    width="150em" height="150em" align="center"/>
    </div>
