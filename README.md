@@ -25,22 +25,20 @@
 <h2>Software used for work: </h2>
 <!-- -->
 <h3>3D Generalist:</h3>
-<div class="img_sec">
-<a href="https://www.unrealengine.com"> <img src="./readme_content/ue.png" title="Unreal Engine" alt="Unreal Engine" width="50em" height="50em" /></a>
-<a href="https://www.blender.org/"> <img src="./readme_content/blender.png" title="Blender" alt="Blender" width="50em" height="50em" /></a>
-<a href="https://krita.org"> <img src="./readme_content/krita.png" title="Krita" alt="Krita" width="50em" height="50em" /></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"> <img src="./readme_content/photoshop.png" title="Photoshop" alt="Photoshop" width="50em" height="50em" /></a>
-<a href="https://trello.com"> <img src="./readme_content/trello.png" title="Trello" alt="Trello" width="50em" height="50em" /></a>
-</div>
+   <div class="img_sec">
+      <a href="https://www.unrealengine.com"> <img src="./readme_content/ue.png"  title="Unreal Engine" alt="Unreal Engine" width="50em" height="50em"/></a>
+      <a href="https://www.blender.org/"> <img src="./readme_content/blender.png" title="Blender"       alt="Blender"       width="50em" height="50em"/></a>
+      <a href="https://krita.org"> <img src="./readme_content/krita.png"          title="Krita"         alt="Krita"         width="50em" height="50em"/></a>
+      <a href="https://www.adobe.com"> <img src="./readme_content/photoshop.png"  title="Photoshop"     alt="Photoshop"     width="50em" height="50em"/></a>
+      <a href="https://trello.com"> <img src="./readme_content/trello.png"        title="Trello"        alt="Trello"        width="50em" height="50em"/></a>
 
-<div class="img_sec">
 <h3>Web dev:</h3>
    
-<a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png" title="VSCodium" alt="VSCodium" width="50em" height="50em" /></a>
-<a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"   title="VSCode"   alt="VSCode" width="50em" height="50em" /></a>
-<a href="https://www.figma.com">          <img src="./readme_content/figma.png"    title="Figma"    alt="Figma" width="50em" height="50em" /></a>
-<a href="https://balsamiq.com/">          <img src="./readme_content/balsamiq.png" title="Balsamiq" alt="Balsamiq" width="50em" height="50em" /></a>
-<a href="https://www.apachefriends.org">  <img src="./readme_content/xampp.png"    title="Xampp"    alt="Xampp" width="50em" height="50em" /></a>
+<a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png" title="VSCodium" alt="VSCodium" width="50em" height="50em"/></a>
+<a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"   title="VSCode"   alt="VSCode"   width="50em" height="50em"/></a>
+<a href="https://www.figma.com">          <img src="./readme_content/figma.png"    title="Figma"    alt="Figma"    width="50em" height="50em"/></a>
+<a href="https://balsamiq.com/">          <img src="./readme_content/balsamiq.png" title="Balsamiq" alt="Balsamiq" width="50em" height="50em"/></a>
+<a href="https://www.apachefriends.org">  <img src="./readme_content/xampp.png"    title="Xampp"    alt="Xampp"    width="50em" height="50em"/></a>
 </div>
 
    </br>
