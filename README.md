@@ -32,7 +32,6 @@
         <a href="https://www.adobe.com/es/products/photoshop.html"> <img src="./readme_content/photoshop.png" title="Photoshop" alt="Photoshop" width="50em" height="50em" /></a>
         <a href="https://trello.com"> <img src="./readme_content/trello.png" title="Trello" alt="Trello" width="50em" height="50em" /></a>
     </div>
-
     <div class="img_sec">
         <h3>Web dev:</h3>
 
