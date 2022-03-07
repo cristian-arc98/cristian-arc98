@@ -32,7 +32,6 @@
 
    <div>
       <h3>Web dev:</h3>
-   
          <a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png" title="VSCodium" alt="VSCodium" width="50em" height="50em"/></a>
          <a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"   title="VSCode"   alt="VSCode"   width="50em" height="50em"/></a>
          <a href="https://www.figma.com">          <img src="./readme_content/figma.png"    title="Figma"    alt="Figma"    width="50em" height="50em"/></a>
