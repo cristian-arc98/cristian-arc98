@@ -17,14 +17,14 @@
    + Form: https://linktr.ee/Teorik
 
 <head>
-   <style> 
+  
       
       .img_sec{
       width: 1em ;
       height: 1em ;
       }
       
-   </style>
+  
 </head>
 <body>
 <h2>Software used for work: </h2>
