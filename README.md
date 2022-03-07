@@ -53,7 +53,7 @@
       <a href="https://www.un.org"> <img src="./readme_content/onu11.png" width="60" height="60" /></a>
       <a href="https://european-union.europa.eu"> <img src="./readme_content/eu.png" width="60" height="60" /></a>
       <a href="https://www.lamoncloa.gob.es"> <img src="./readme_content/sp.png" width="60" height="60" /></a>
-      <label style=”font-size:7;">For a better & united world</label>
+      <label><small>For a better & united world</small></label>
    </div>
    
 <!---
