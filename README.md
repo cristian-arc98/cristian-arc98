@@ -59,7 +59,7 @@
    
    <div align="center">
   
-   <img src="https://cutewallpaper.org/25/animated-gif-matrix-code-wallpaper/popular-56884-and-b33b7-trending-d9f0a-matrix-9d340-gifs-78c1f-on-c4e7c-picsart.gif"    title="Figma"    alt="Figma"    width="150em" height="150em" align="center"/>
+   <img src="https://cutewallpaper.org/25/animated-gif-matrix-code-wallpaper/popular-56884-and-b33b7-trending-d9f0a-matrix-9d340-gifs-78c1f-on-c4e7c-picsart.gif"    title="Figma"    alt="Figma"    width="350em" height="150em" align="center"/>
    </div>
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
