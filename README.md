@@ -59,8 +59,9 @@
    
    <div align="center">
   
-   <img src="https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
+   <img src="https://user-images.githubusercontent.com/34876972/149353078-47e888fa-e7c7-4d3f-ab8e-748efc1b661e.gif"    title="Figma"    alt="Figma"    width="350em" height="350em" align="center"/>
    </div>
+   <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 <!---
 cristian-arc98/cristian-arc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
