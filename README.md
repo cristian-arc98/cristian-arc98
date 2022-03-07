@@ -18,7 +18,7 @@
 
  
 <head>      
-     <link rel="stylesheet" href="./readme_content/styles.css">
+     <link rel="stylesheet" href="./readme_content/style.css">
       </head> 
   
 <body>
