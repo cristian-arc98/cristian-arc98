@@ -63,8 +63,10 @@
    <!-- Footer section -->
    </br>
    <label>For a better & united world</label></br>
-           <img src="./readme_content/cor.webp" title=":)" alt="heart-animation" width="30em" height="30em"/>
+          <a href="https://youtu.be/mCdA4bJAGGk"> <img src="./readme_content/cor.webp" title=":)" alt="heart-animation" width="30em" height="30em"/></a>
    </div>
+   <pre><code>This is a code block.
+</code></pre>
    
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 
