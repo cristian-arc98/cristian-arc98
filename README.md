@@ -1,5 +1,3 @@
-
-
 <h1>Hello, I’m Cristian Arcedo, welcome to me github page  </h1>
 <h3> [3D Generalist] & [web dev]</h3>
 
@@ -72,7 +70,9 @@
    <pre><code>This is a code block.</code></pre>
    -->
    
-  
+  <div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
    
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 
