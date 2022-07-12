@@ -25,8 +25,8 @@
 <h2>Software used for work: </h2>
 <!--Image divs -->
 
-<div>
-   <div align="left">
+<div align="center">
+   <div>
       <h3>3D Generalist/Environment:</h3>
          <a href="https://www.unrealengine.com">  <img src="./readme_content/ue.png"         title="Unreal Engine" alt="Unreal Engine" width="50em" height="50em"/>  </a>
          <a href="https://unity.com">             <img src="./readme_content/unity.png"      title="Unity"         alt="Unity"         width="50em" height="50em"/>  </a>
@@ -36,7 +36,7 @@
          <a href="https://trello.com">            <img src="./readme_content/trello.png"     title="Trello"        alt="Trello"        width="50em" height="50em"/>  </a>
    </div>
 
-   <div align="right">
+   <div>
       <h3>Web dev:</h3>
          <a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png"  title="VSCodium"      alt="VSCodium"      width="50em" height="50em"/>  </a>
          <a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"    title="VSCode"        alt="VSCode"        width="50em" height="50em"/>  </a>
