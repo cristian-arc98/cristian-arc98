@@ -1,12 +1,5 @@
-<foreignObject>
-<style>
-    div {
-      color: white;
-      font: 18px serif;
-      height: 100%;
-      overflow: auto;
-    }
-  </style>
+<foreignObject x="20" y="20" width="160" height="160" >
+   <p xmlns="http://www.w3.org/1999/xhtml" style="font: 16px serif;">Lorem ipsum...</p>
 </foreignObject>
 
 <h1>Hello, I’m Cristian Arcedo, welcome to me github page  </h1>
