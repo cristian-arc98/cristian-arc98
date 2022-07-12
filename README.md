@@ -25,8 +25,9 @@
 <h2>Software used for work: </h2>
 <!--Image divs -->
 
+<div>
    <div align="left">
-      <label>3D Generalist/Environment:</label>
+      <h3>3D Generalist/Environment:</h3>
          <a href="https://www.unrealengine.com">  <img src="./readme_content/ue.png"         title="Unreal Engine" alt="Unreal Engine" width="50em" height="50em"/>  </a>
          <a href="https://unity.com">             <img src="./readme_content/unity.png"      title="Unity"         alt="Unity"         width="50em" height="50em"/>  </a>
          <a href="https://www.blender.org/">      <img src="./readme_content/blender.png"    title="Blender"       alt="Blender"       width="50em" height="50em"/>  </a>
@@ -36,7 +37,7 @@
    </div>
 
    <div align="right">
-      <label>Web dev:</label>
+      <h3>Web dev:</h3>
          <a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png"  title="VSCodium"      alt="VSCodium"      width="50em" height="50em"/>  </a>
          <a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"    title="VSCode"        alt="VSCode"        width="50em" height="50em"/>  </a>
          <a href="https://www.figma.com">          <img src="./readme_content/figma.png"     title="Figma"         alt="Figma"         width="50em" height="50em"/>  </a>
@@ -44,7 +45,7 @@
          <a href="https://www.apachefriends.org">  <img src="./readme_content/xampp.png"     title="Xampp"         alt="Xampp"         width="50em" height="50em"/>  </a>
          <a href="https://github.com">             <img src="./readme_content/github.png"    title="Github"        alt="Github"        width="50em" height="50em"/>  </a>
    </div>
-
+ </div>
    </br></br>
    
   <div align="center">
