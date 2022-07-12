@@ -65,8 +65,14 @@
    <label>For a better & united world</label></br>
           <a href="https://youtu.be/mCdA4bJAGGk"> <img src="./readme_content/cor.webp" title=":)" alt="heart-animation" width="30em" height="30em"/></a>
    </div>
-   <pre><code>This is a code block.
-</code></pre>
+   
+   <!--
+   <pre><code>This is a code block.</code></pre>
+   -->
+   
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
    
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 
