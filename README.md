@@ -1,12 +1,18 @@
 <h1>Welcome, to me github page</h1>
 
-- Hello, I’m Cristian Arcedo
+- Hello, I’m Cristian Arcedo, [3D Generalist & web dev]
    + Github: @cristian-arc98
 
-- I’m interested in New technologies, imagine, design and create, i'm 3D Generalist/environment && Web dev (front end at the moment)
+- I’m interested in: 
+   + New technologies
+   + imagine & design 
+   + Programation
+   + Game dev 
+   + Web dev
+   + Learn
 
 - Usually i'm intersting to collaborate in projects like:
-   + Game development or 3D Design/Environment.
+   + Game development or Educational purposes.
    + Humanitary & or solidary projects
    + Web development.
 
