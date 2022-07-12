@@ -70,9 +70,11 @@
    <pre><code>This is a code block.</code></pre>
    -->
    
+  <!--
   <div align="center">
     <img src="card.svg" width="400" height="400" alt="css-in-readme">
 </div>
+   -->
    
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 
