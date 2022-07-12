@@ -1,3 +1,14 @@
+<foreignObject>
+<style>
+    div {
+      color: white;
+      font: 18px serif;
+      height: 100%;
+      overflow: auto;
+    }
+  </style>
+</foreignObject>
+
 <h1>Hello, I’m Cristian Arcedo, welcome to me github page  </h1>
 <h3> [3D Generalist] & [web dev]</h3>
 
@@ -70,9 +81,7 @@
    <pre><code>This is a code block.</code></pre>
    -->
    
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
+  
    
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 
