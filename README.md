@@ -1,5 +1,5 @@
-<h1>Welcome, to me github page  </h1>
-<h2>Hello, I’m Cristian Arcedo [3D Generalist] & [web dev]</h2>
+<h1>Hello, I’m Cristian Arcedo, welcome to me github page  </h1>
+<h3> [3D Generalist] & [web dev]</h3>
 
 - Github: <a href="https://github.com/cristian-arc98">@cristian-arc98</a>
 
