@@ -1,6 +1,4 @@
-<foreignObject x="20" y="20" width="160" height="160" >
-   <p xmlns="http://www.w3.org/1999/xhtml" style="font: 16px serif;">Lorem ipsum...</p>
-</foreignObject>
+
 
 <h1>Hello, I’m Cristian Arcedo, welcome to me github page  </h1>
 <h3> [3D Generalist] & [web dev]</h3>
