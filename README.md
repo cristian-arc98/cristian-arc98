@@ -1,7 +1,7 @@
 <h1>Hello, I’m Cristian Arcedo [3D Generalist & web dev] </h1>
 <h2>Welcome, to me github page</h2>
 
-   + Github: @cristian-arc98
+   + Github: <button>@cristian-arc98</button>
 
 - I’m interested in: 
    + New technologies
@@ -66,7 +66,6 @@
            <img src="./readme_content/cor.webp" title=":)" alt="heart-animation" width="30em" height="30em"/>
    </div>
    
-   <frame></frame>
    <!-- https://c.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif-->
 
 <!---
