@@ -1,6 +1,6 @@
-<h1>Welcome, to me github page</h1>
+<h1>Hello, I’m Cristian Arcedo [3D Generalist & web dev] </h1>
+<h2>Welcome, to me github page</h2>
 
-- Hello, I’m Cristian Arcedo, [3D Generalist & web dev]
    + Github: @cristian-arc98
 
 - I’m interested in: 
