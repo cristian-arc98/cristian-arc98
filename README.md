@@ -1,7 +1,7 @@
 <h1>Hello, I’m Cristian Arcedo [3D Generalist & web dev] </h1>
 <h2>Welcome, to me github page</h2>
 
-   + Github: <input type="button" value="ye">@cristian-arc98
+   + Github: <a href="https://github.com/cristian-arc98">@cristian-arc98</a>
 
 - I’m interested in: 
    + New technologies
