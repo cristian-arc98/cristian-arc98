@@ -6,7 +6,7 @@
 - I’m interested in New technologies, imagine, design and create, i'm 3D Generalist/environment && Web dev (front end at the moment)
 
 - Usually i'm intersting to collaborate in projects like:
-   + Game development.
+   + Game development or 3D Design/Environment.
    + Humanitary & or solidary projects
    + Web development.
 
