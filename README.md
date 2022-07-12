@@ -37,12 +37,14 @@
 
    <div>
       <h3>Web dev:</h3>
+       <div align="center">
          <a href="https://vscodium.com/">          <img src="./readme_content/vscodium.png"  title="VSCodium"      alt="VSCodium"      width="50em" height="50em"/>  </a>
          <a href="https://code.visualstudio.com/"> <img src="./readme_content/vscode.png"    title="VSCode"        alt="VSCode"        width="50em" height="50em"/>  </a>
          <a href="https://www.figma.com">          <img src="./readme_content/figma.png"     title="Figma"         alt="Figma"         width="50em" height="50em"/>  </a>
          <a href="https://balsamiq.com/">          <img src="./readme_content/balsamiq.png"  title="Balsamiq"      alt="Balsamiq"      width="50em" height="50em"/>  </a>
          <a href="https://www.apachefriends.org">  <img src="./readme_content/xampp.png"     title="Xampp"         alt="Xampp"         width="50em" height="50em"/>  </a>
          <a href="https://github.com">             <img src="./readme_content/github.png"    title="Github"        alt="Github"        width="50em" height="50em"/>  </a>
+   </div>
    </div>
 
    </br></br>
