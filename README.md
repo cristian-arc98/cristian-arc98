@@ -26,7 +26,7 @@
 <!--Image divs -->
 
 <div align="center">
-   <div>
+   <div align="left">
       <h3>3D Generalist/Environment:</h3>
          <a href="https://www.unrealengine.com">  <img src="./readme_content/ue.png"         title="Unreal Engine" alt="Unreal Engine" width="50em" height="50em"/>  </a>
          <a href="https://unity.com">             <img src="./readme_content/unity.png"      title="Unity"         alt="Unity"         width="50em" height="50em"/>  </a>
