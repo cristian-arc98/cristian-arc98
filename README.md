@@ -11,8 +11,8 @@
    + Web development.
 
 - Contact me:
-   + Gmail: cristian.lorca.trabajo@gmail.com
-   + Form: https://linktr.ee/Teorik
+   + Gmail:            cristian.lorca.trabajo@gmail.com
+   + Form & Portfolio: https://linktr.ee/Teorik
 
  
 
