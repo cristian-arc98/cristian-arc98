@@ -25,7 +25,7 @@
 <h2>Software used for work: </h2>
 <!--Image divs -->
 
-<div>
+<div align="center">
    <div>
       <h3>3D Generalist/Environment:</h3>
          <a href="https://www.unrealengine.com">  <img src="./readme_content/ue.png"         title="Unreal Engine" alt="Unreal Engine" width="50em" height="50em"/>  </a>
