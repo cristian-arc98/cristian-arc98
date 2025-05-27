@@ -63,7 +63,7 @@
   
    <!-- Footer section -->
    </br>
-   <label>For a better & united world</label></br>
+   <!--<label>For a better & united world</label></br> -->
           <a href="https://youtu.be/mCdA4bJAGGk"> <img src="./readme_content/cor.webp" title=":)" alt="heart-animation" width="30em" height="30em"/></a>
    </div>
    
