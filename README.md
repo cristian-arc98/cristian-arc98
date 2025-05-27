@@ -13,7 +13,7 @@
 
 - Usually i'm intersting to collaborate in projects like:
    + Game development or Educational purposes.
-   + Humanitary & or solidary projects
+   + Medical purposes
    + Web development.
 
 - Contact me:
